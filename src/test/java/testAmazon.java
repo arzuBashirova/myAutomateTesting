@@ -8,6 +8,7 @@ public class testAmazon {
 
     public static void main(String[] args) {
 
+        //believe in yourself. we will do it ins!
 
         WebDriver driver= new ChromeDriver();
 
